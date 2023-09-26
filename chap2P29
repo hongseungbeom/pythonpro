@@ -1,0 +1,10 @@
+Name = input(print('Hi. what's your name?'))
+Old = input(print('And how old are you?'))
+Wgh = input(print('Okay, last question. How many pounds do you weigh?'))
+print('Did you know that you're just %d in dog years\t', Old/7)
+print('But you're also over %d seconds old.', Old*31557600)
+if a samll child were trying to get your attention, your name would become:
+Did you know that on the moon you would weigh only %d pounds?
+But on the sun, you'd weight %d <but, ah... not for long>.
+
+Press the enter key to exit.
