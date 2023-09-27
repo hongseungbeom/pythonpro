@@ -1,0 +1,3 @@
+NAME = input("Hi. What's your name?)
+AGE = input("
+
